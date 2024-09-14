@@ -4,3 +4,6 @@ Especially in a large class setting, the git platform allows for each student to
 
 Q2: What field could data science be applied to? Give an Example and how it might help
 Answer: Data science can be applied to Politics. For examples, companies may want to look at voter trends to see what areas to target. 
+
+Q3: What is the difference between merging and rebasing? 
+Answer: Merging preserves the entire history of your repositoty whereas rebasing creates a linear history by moving the current branch to the top of main. 
