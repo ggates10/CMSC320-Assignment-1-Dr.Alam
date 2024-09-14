@@ -1,3 +1,6 @@
 Q1: Why might we consider using git?
 Answer: Git allows for easier editing and organizing of files. 
 Especially in a large class setting, the git platform allows for each student to maintain their own work while still submitting to the same platform.
+
+Q2: What field could data science be applied to? Give an Example and how it might help
+Answer: Data science can be applied to Politics. For examples, companies may want to look at voter trends to see what areas to target. 
